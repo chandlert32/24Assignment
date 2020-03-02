@@ -10,6 +10,7 @@ using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OAuth;
 using _24HrChallenge.Models;
+using Like.Data;
 
 namespace _24HrChallenge.Providers
 {

@@ -1,0 +1,15 @@
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.Services.dll.config
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.Services.dll
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.Services.pdb
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\EntityFramework.dll
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\EntityFramework.xml
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\obj\Debug\Like.Services.csprojAssemblyReference.cache
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\obj\Debug\Like.Services.csproj.CopyComplete
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\obj\Debug\Like.Services.dll
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\obj\Debug\Like.Services.pdb

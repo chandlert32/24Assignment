@@ -16,6 +16,7 @@ using Microsoft.Owin.Security.OAuth;
 using _24HrChallenge.Models;
 using _24HrChallenge.Providers;
 using _24HrChallenge.Results;
+using Like.Data;
 
 namespace _24HrChallenge.Controllers
 {
