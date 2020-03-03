@@ -55,10 +55,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReplyService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Like.data\Like.Data.csproj">
+      <Project>{C920EB6C-5385-49CF-BA9B-34A5E63FE17F}</Project>
+      <Name>Like.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Like.Model\Like.Model.csproj">
+      <Project>{570CDDC5-28FD-4770-93E3-CBD91F32D711}</Project>
+      <Name>Like.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

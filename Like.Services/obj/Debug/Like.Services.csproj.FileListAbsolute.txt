@@ -28,3 +28,9 @@ C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\L
 C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\obj\Debug\Like.Services.csproj.CopyComplete
 C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\obj\Debug\Like.Services.dll
 C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\obj\Debug\Like.Services.pdb
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\bin\Debug\Like.data.dll
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\bin\Debug\Like.Model.dll
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\bin\Debug\Like.data.pdb
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\bin\Debug\Like.data.dll.config
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\bin\Debug\Like.Model.pdb
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\bin\Debug\Like.Model.dll.config
