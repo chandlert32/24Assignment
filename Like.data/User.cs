@@ -18,5 +18,14 @@ namespace Like.data
         [Required]
         public string Email { get; set; }
 
+<<<<<<< HEAD
+=======
+        /*Chandler:
+        - Create User Model
+        - Create UserController
+        - Signup
+        - Login
+          */
+>>>>>>> master
     }
 }

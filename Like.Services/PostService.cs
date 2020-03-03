@@ -18,21 +18,42 @@ namespace Like.Services
             _userId = userID;
         }
 
-        //public bool CreatePost(PostCreate model)
-        //{
-        //    var entity =
-        //        new Post()
-        //        {
-        //            UserId = _userId,
-        //            Title = model.Title,
-        //            Text = model.Text,
-        //            CreatedUtc = DateTimeOffset.Now
-        //        };
-        //    using (var ctx = new ApplicationDbContext())
-        //    {
-        //        ctx.Notes.Add(entity);
-        //        return ctx.SaveChanges() == 1;
-        //    }
-        //}
+        public bool CreatePost(PostCreate model)
+        {
+            var entity =
+                new Post()
+                {
+                    Title = model.Title,
+                    Text = model.Text,
+                    UserId = _userId
+                };
+            using (var ctx = new ApplicationDbContext())
+            {
+                ctx.Posts.Add(entity);
+                return ctx.SaveChanges() == 1;
+            }
+        }
+
+        public IEnumerable<PostItem> GetPosts()
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var query =
+                ctx
+                .Posts
+                //.Where(e => e.UserId == _userId)
+                .Select(
+                e =>
+                new PostItem
+                {
+                    //user = e.UserId,
+                    Title = e.Title,
+                    Name = e.User.Name
+                    //CreatedUtc = e.CreatedUtc
+                }
+                );
+                return query.ToArray();
+            }
+        }
     }
 }
