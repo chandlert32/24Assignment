@@ -61,5 +61,15 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Like.data\Like.Data.csproj">
+      <Project>{c920eb6c-5385-49cf-ba9b-34a5e63fe17f}</Project>
+      <Name>Like.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Like.Model\Like.Model.csproj">
+      <Project>{570cddc5-28fd-4770-93e3-cbd91f32d711}</Project>
+      <Name>Like.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

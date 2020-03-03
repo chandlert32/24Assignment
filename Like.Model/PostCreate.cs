@@ -20,7 +20,7 @@ namespace Like.Model
         public string Text { get; set; }
 
         //[ForeignKey(nameof(User))]
-        public int UserGuiD { get; set; }
+        public int UserId { get; set; }
         //public virtual User User { get; set; }
     }
 }
