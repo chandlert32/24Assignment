@@ -1,4 +1,7 @@
-﻿using Like.Model;
+﻿using Like.data;
+using Like.Model;
+using Like.Services;
+using Microsoft.AspNet.Identity;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -11,6 +14,12 @@ using System.Web.Http;
 
 namespace _24HrChallenge.Controllers
 {
+<<<<<<< HEAD
+    [Authorize]
+    public class NoteController : ApiController
+    {
+        public IHttpActionResult Get()
+=======
     
     public class UserController : ApiController
 <<<<<<< HEAD
@@ -41,36 +50,27 @@ namespace _24HrChallenge.Controllers
         //GET ALL
         [HttpGet]
         public async Task<IHttpActionResult> GetAll()
+>>>>>>> master
         {
-            List<User> allUsers = await _context.Users.ToListAsync();
-            return Ok(allUsers);
+            UserService userService = CreateUserService();
+            return Ok(userService);
         }
-
-        //DELETE BY ID
-        [HttpDelete]
-        public async Task<IHttpActionResult> DeleteUserByEmail(string email)
+        private UserService CreateUserService()
         {
-            User userEmail = await _context.Users.FindAsync(email);
-
-            if (userEmail == null)
-            {
-                return NotFound();
-            }
-
-            _context.Users.Remove(userEmail);
-
-            if (await _context.SaveChangesAsync() == 1)
-            {
-                return Ok();
-            }
-
-            return InternalServerError();
+            var userId = Guid.Parse(User.Identity.GetUserId());
+            var noteService = new UserService(userId);
+            return noteService;
         }
 <<<<<<< HEAD
         */
     }
+<<<<<<< HEAD
+
+=======
 =======
     */}
 >>>>>>> master
+>>>>>>> master
 }
+
 
