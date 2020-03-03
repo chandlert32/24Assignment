@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Like.data
 {
-    public class Like
+    public class Appreciate
     {
         [ForeignKey(nameof(Liker))]
         public Guid LikerId { get; set; }
