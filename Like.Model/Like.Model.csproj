@@ -63,17 +63,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-=======
     <Compile Include="PostCreate.cs" />
     <Compile Include="PostItems.cs" />
->>>>>>> kerry
     <Compile Include="Properties\AssemblyInfo.cs" />
-<<<<<<< HEAD
     <Compile Include="UserModel.cs" />
-=======
     <Compile Include="ReplyCreate.cs" />
->>>>>>> master
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
