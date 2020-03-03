@@ -43,3 +43,24 @@ C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.data.dll.conf
 C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.Model.pdb
 C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.Model.dll.config
 >>>>>>> kerry
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\Like.Services.dll.config
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\Like.Services.dll
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\Like.Services.pdb
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\EntityFramework.dll
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\Like.data.dll
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\Like.Model.dll
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\Like.data.pdb
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\Like.data.dll.config
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\Like.Model.pdb
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\Like.Model.dll.config
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\EntityFramework.xml
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\obj\Debug\Like.Services.csprojAssemblyReference.cache
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\obj\Debug\Like.Services.csproj.CopyComplete
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\obj\Debug\Like.Services.dll
+C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\sixtime\24Assignment\Like.Services\obj\Debug\Like.Services.pdb
