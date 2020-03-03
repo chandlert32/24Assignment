@@ -54,6 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PostService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReplyService.cs" />
   </ItemGroup>
@@ -63,11 +64,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Like.data\Like.Data.csproj">
+<<<<<<< HEAD
       <Project>{C920EB6C-5385-49CF-BA9B-34A5E63FE17F}</Project>
       <Name>Like.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\Like.Model\Like.Model.csproj">
       <Project>{570CDDC5-28FD-4770-93E3-CBD91F32D711}</Project>
+=======
+      <Project>{c920eb6c-5385-49cf-ba9b-34a5e63fe17f}</Project>
+      <Name>Like.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Like.Model\Like.Model.csproj">
+      <Project>{570cddc5-28fd-4770-93e3-cbd91f32d711}</Project>
+>>>>>>> kerry
       <Name>Like.Model</Name>
     </ProjectReference>
   </ItemGroup>

@@ -1,14 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Like.data
+namespace Like.Model
 {
-    public class Post
+    public class PostCreate
     {
         [Key]
         public int Id { get; set; }
@@ -17,10 +16,11 @@ namespace Like.data
         public string Title { get; set; }
 
         [Required]
+        [MaxLength(8000)]
         public string Text { get; set; }
 
-        [ForeignKey(nameof(User))]
+        //[ForeignKey(nameof(User))]
         public int UserId { get; set; }
-        public virtual User User { get; set; }
+        //public virtual User User { get; set; }
     }
 }

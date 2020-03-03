@@ -13,6 +13,7 @@ C:\1150Projects\Blue.NET\24Assignment\Like.Services\obj\Debug\Like.Services.cspr
 C:\1150Projects\Blue.NET\24Assignment\Like.Services\obj\Debug\Like.Services.csproj.CopyComplete
 C:\1150Projects\Blue.NET\24Assignment\Like.Services\obj\Debug\Like.Services.dll
 C:\1150Projects\Blue.NET\24Assignment\Like.Services\obj\Debug\Like.Services.pdb
+<<<<<<< HEAD
 C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\bin\Debug\Like.Services.dll.config
 C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\bin\Debug\Like.Services.dll
 C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\bin\Debug\Like.Services.pdb
@@ -34,3 +35,11 @@ C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\L
 C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\bin\Debug\Like.data.dll.config
 C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\bin\Debug\Like.Model.pdb
 C:\Users\Jerome\Desktop\netJan2020\BlueBadge\REALTEAM\24Challenge\24Assignment\Like.Services\bin\Debug\Like.Model.dll.config
+=======
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.data.dll
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.Model.dll
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.data.pdb
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.data.dll.config
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.Model.pdb
+C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.Model.dll.config
+>>>>>>> kerry
