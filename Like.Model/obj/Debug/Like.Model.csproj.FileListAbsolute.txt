@@ -49,3 +49,9 @@ C:\Codespace\newteam5\pewp\24Assignment\Like.Model\obj\Debug\Like.Model.csprojAs
 C:\Codespace\newteam5\pewp\24Assignment\Like.Model\obj\Debug\Like.Model.csproj.CopyComplete
 C:\Codespace\newteam5\pewp\24Assignment\Like.Model\obj\Debug\Like.Model.dll
 C:\Codespace\newteam5\pewp\24Assignment\Like.Model\obj\Debug\Like.Model.pdb
+C:\1150Projects\Blue.NET\24Assignment\Like.Model\bin\Debug\Newtonsoft.Json.dll
+C:\1150Projects\Blue.NET\24Assignment\Like.Model\bin\Debug\System.Net.Http.Formatting.dll
+C:\1150Projects\Blue.NET\24Assignment\Like.Model\bin\Debug\System.Web.Http.dll
+C:\1150Projects\Blue.NET\24Assignment\Like.Model\bin\Debug\Newtonsoft.Json.xml
+C:\1150Projects\Blue.NET\24Assignment\Like.Model\bin\Debug\System.Net.Http.Formatting.xml
+C:\1150Projects\Blue.NET\24Assignment\Like.Model\bin\Debug\System.Web.Http.xml
