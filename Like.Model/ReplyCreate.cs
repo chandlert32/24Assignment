@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace Like.Model
 {
-    public class ReplyCreate : CommentCreate
+    public class ReplyCreate 
+        //: CommentCreate
     {
         [Required]
         public int CommentReplied { get; set; }

@@ -23,7 +23,7 @@ namespace Like.Services
         {
             var entity = new Reply()
             {
-                OwnerId = _userId,
+                //OwnerId = _userId,
                 CommentRepliedTo = model.CommentReplied
             };
 
