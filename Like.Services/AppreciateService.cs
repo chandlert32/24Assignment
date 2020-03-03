@@ -17,9 +17,9 @@ namespace Like.Services
             _userId = userId;
         }
 
-        public bool CreateLike(Appreciate model)
-        {
+        //public bool CreateLike(Appreciate model)
+        //{
 
-        }
+        //}
     }
 }
