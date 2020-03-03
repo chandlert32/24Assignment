@@ -1,15 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Like.data
+namespace Like.Model
 {
-    public class Comment
+    public class ReplyCreate 
+        //: CommentCreate
     {
-
+        [Required]
+        public int CommentReplied { get; set; }
     }
 }
