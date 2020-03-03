@@ -64,7 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PostCreate.cs" />
-    <Compile Include="PostItems.cs" />
+    <Compile Include="PostItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReplyCreate.cs" />
   </ItemGroup>
