@@ -13,7 +13,12 @@ namespace _24HrChallenge.Controllers
 {
     
     public class UserController : ApiController
+<<<<<<< HEAD
+    {
+        /*
+=======
     {/*
+>>>>>>> master
         private readonly UserDbContext _context = new UserDbContext();
 
         //POST
@@ -61,6 +66,11 @@ namespace _24HrChallenge.Controllers
 
             return InternalServerError();
         }
+<<<<<<< HEAD
+        */
+    }
+=======
     */}
+>>>>>>> master
 }
 

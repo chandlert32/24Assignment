@@ -12,11 +12,19 @@ namespace Like.data
     {
         [Key]
         public int CommentId { get; set; }
+<<<<<<< HEAD
+        
+=======
+>>>>>>> master
         [Required]
         public string Text { get; set; }
 
         [ForeignKey(nameof(Post))]
+<<<<<<< HEAD
+        public int PostFk { get; set; }
+=======
         public int PostFK { get; set; }
+>>>>>>> master
         public virtual Post Post { get; set; }
 
         [ForeignKey(nameof(User))]

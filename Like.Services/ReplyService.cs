@@ -11,27 +11,27 @@ namespace Like.Services
 {
     public class ReplyService
     {
-        private readonly Guid _userId;
-        private readonly int _repliedTo;
+        //private readonly Guid _userId;
+        //private readonly int _repliedTo;
 
-        public ReplyService(Guid userId)
-        {
-            _userId = userId;
-        }
+        //public ReplyService(Guid userId)
+        //{
+        //    _userId = userId;
+        //}
 
-        public bool CreateReply(ReplyCreate model)
-        {
-            var entity = new Reply()
-            {
-                //OwnerId = _userId,
-                CommentRepliedTo = model.CommentReplied
-            };
+        //public bool CreateReply(ReplyCreate model)
+        //{
+        //    var entity = new Reply()
+        //    {
+        //        //OwnerId = _userId,
+        //        CommentRepliedTo = model.CommentReplied
+        //    };
 
-            using(var ctx = new ApplicationDbContext())
-            {
-                ctx.Replies.Add(entity);
-                return ctx.SaveChanges() == 1;
-            }
-        }
+        //    using(var ctx = new ApplicationDbContext())
+        //    {
+        //        ctx.Replies.Add(entity);
+        //        return ctx.SaveChanges() == 1;
+        //    }
+        //}
     }
 }
