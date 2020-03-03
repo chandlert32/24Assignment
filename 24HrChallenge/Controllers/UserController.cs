@@ -1,4 +1,7 @@
-﻿using Like.Model;
+﻿using Like.data;
+using Like.Model;
+using Like.Services;
+using Microsoft.AspNet.Identity;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -11,56 +14,22 @@ using System.Web.Http;
 
 namespace _24HrChallenge.Controllers
 {
-
-    public class UserController : ApiController
+    [Authorize]
+    public class NoteController : ApiController
     {
-        private readonly UserDbContext _context = new UserDbContext();
-
-        //POST
-        [HttpPost]
-        public async Task<IHttpActionResult> UserSignUp (User user)
+        public IHttpActionResult Get()
         {
-            if (ModelState.IsValid && user != null)
-            {
-                _context.Users.Add(user);
-                await _context.SaveChangesAsync();
-                return Ok();
-            }
-            return BadRequest(ModelState);
+            UserService userService = CreateUserService();
+            return Ok(userService);
         }
-
-        //USERLOGIN
-        public async Task<IHttpActionResult> UserLogIn()
-
-
-        //GET ALL
-        [HttpGet]
-        public async Task<IHttpActionResult> GetAll()
+        private UserService CreateUserService()
         {
-            List<User> allUsers = await _context.Users.ToListAsync();
-            return Ok(allUsers);
-        }
-
-        //DELETE BY ID
-        [HttpDelete]
-        public async Task<IHttpActionResult> DeleteUserByEmail(string email)
-        {
-            User userEmail = await _context.Users.FindAsync(email);
-
-            if (userEmail == null)
-            {
-                return NotFound();
-            }
-
-            _context.Users.Remove(userEmail);
-
-            if (await _context.SaveChangesAsync() == 1)
-            {
-                return Ok();
-            }
-
-            return InternalServerError();
+            var userId = Guid.Parse(User.Identity.GetUserId());
+            var noteService = new UserService(userId);
+            return noteService;
         }
     }
+
 }
+
 
