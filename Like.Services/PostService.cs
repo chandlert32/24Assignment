@@ -48,7 +48,7 @@ namespace Like.Services
                 {
                     //user = e.UserId,
                     Title = e.Title,
-                    Name = e.Name
+                    Name = e.User.Name
                     //CreatedUtc = e.CreatedUtc
                 }
                 );
