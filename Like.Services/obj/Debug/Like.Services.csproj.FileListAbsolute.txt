@@ -43,3 +43,24 @@ C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.data.dll.conf
 C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.Model.pdb
 C:\1150Projects\Blue.NET\24Assignment\Like.Services\bin\Debug\Like.Model.dll.config
 >>>>>>> kerry
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\Like.Services.dll.config
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\Like.Services.dll
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\Like.Services.pdb
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\EntityFramework.dll
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\Like.data.dll
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\Like.Model.dll
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\Like.data.pdb
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\Like.data.dll.config
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\Like.Model.pdb
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\Like.Model.dll.config
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\EntityFramework.xml
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\obj\Debug\Like.Services.csprojAssemblyReference.cache
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\obj\Debug\Like.Services.csproj.CopyComplete
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\obj\Debug\Like.Services.dll
+C:\Codespace\newteam5\pewp\24Assignment\Like.Services\obj\Debug\Like.Services.pdb
